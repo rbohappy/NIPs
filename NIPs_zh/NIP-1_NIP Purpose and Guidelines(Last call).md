@@ -75,7 +75,7 @@ NIP当前有六种类型:
   - <span style="font-size: 18px; color: Tomato;"><i class="fas fa-times-circle"></i></span>  **公示:** 如果进入公示阶段后，还要对该NIP进行更改，那这个NIP会被退回草稿状态。我们希望一个NIP只进入一次公示状态，避免在社区引起不必要的争论。
 
 
-- 公示状态的NIP会置顶在https://nuls.community/
+- 公示状态的NIP会置顶在https://forum.nuls.io/
   - <span style="font-size: 18px; color: Dodgerblue;"><i class="fas fa-check-circle"></i></span>  **接受(核心,模块,NRC标准和接口的NIP才涉及):**  如果没有重大变更或未解决的技术问题，则通过公示期的NIP的状态会被NIP编辑更改为接受。
   - <span style="font-size: 18px; color: Dodgerblue;"><i class="fas fa-check-circle"></i></span>  **完结(信息和流程才涉及):**  如果没有重大变更或未解决的技术问题，则通过公示期的NIP的状态会被NIP编辑更改为完结。
   - <span style="font-size: 18px; color: Tomato;"><i class="fas fa-times-circle"></i></span>  **公示:** 公示期有材料变更或无法解决社区提出的技术问题，则该NIP将会被退回草稿状态。除此之外，如果理事会对该NIP有不同的看法，可以在理事会成员内部发起投票，超过70%的理事会成员否决该NIP（需给出原因）则该NIP将根据实际原因被退回草稿状态或直接改为拒绝状态。
